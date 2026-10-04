@@ -1,0 +1,3 @@
+CLUSTER REPO URL : https://github.com/devops0014/k8s-project.git
+CODE BASE URL :  https://github.com/devops0014/ltibbhackathon.git
+MANIFEST URL : https://github.com/devops0014/php-app-manifest.git
